@@ -14,6 +14,8 @@ class FolderController: UIViewController {
         super.viewDidLoad()
         
         view.backgroundColor = .yellow
+        
+        navigationItem.title = "Folders"
         print("OK")
     }
 
