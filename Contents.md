@@ -1,6 +1,6 @@
-- 1. Welcome - Course Overview
-     1. Welcome & Project Overview..mp4
-     2. Resources..html
+1. Welcome - Course Overview
+	1. Welcome & Project Overview..mp4
+	2. Resources..html
 
 - 2. UINavigationController & UITableViews - Project Navigation & Structure
      1. App Setup & Architecture Overview..mp4
